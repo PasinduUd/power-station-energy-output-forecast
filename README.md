@@ -5,5 +5,5 @@ The evaluation metric is Mean Absolute Error (MAE). MAE score is calculated with
 
 MAE score of Multiple Linear Regression (MLR) : 3.71328  
 MAE score of Support Vector Regression (SVR) : 10.68085  
-MAE score of Least Absolute Shrinkage and Selection Operator (LASSO) Regression : 14.77773
+MAE score of Least Absolute Shrinkage and Selection Operator (LASSO) Regression : 14.77773  
 MAE score of Random Forest Regression (RFR) : 2.66272
